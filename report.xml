@@ -1,18 +1,18 @@
-<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="10.898499">
-<testsuite name="example.spec.js" timestamp="2025-03-11T03:20:59.138Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.769" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.401">
+<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="10.688528">
+<testsuite name="example.spec.js" timestamp="2025-03-12T03:19:50.854Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.77" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.337">
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.368">
-</testcase>
-</testsuite>
-<testsuite name="example.spec.js" timestamp="2025-03-11T03:20:59.138Z" hostname="firefox" tests="2" failures="0" skipped="0" time="3.636" errors="0">
-<testcase name="has title" classname="example.spec.js" time="2.657">
-</testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.979">
+<testcase name="get started link" classname="example.spec.js" time="0.433">
 </testcase>
 </testsuite>
-<testsuite name="example.spec.js" timestamp="2025-03-11T03:20:59.138Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.04" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.021">
+<testsuite name="example.spec.js" timestamp="2025-03-12T03:19:50.854Z" hostname="firefox" tests="2" failures="0" skipped="0" time="1.836" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.11">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="0.726">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2025-03-12T03:19:50.854Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.039" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.02">
 <failure message="example.spec.js:4:1 has title" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:4:1 › has title ───────────────────────────────────────────────────────
 
