@@ -1,18 +1,18 @@
-<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="9.304799">
-<testsuite name="example.spec.js" timestamp="2026-01-06T03:57:23.510Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.664" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.305">
+<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="9.135189">
+<testsuite name="example.spec.js" timestamp="2026-01-07T03:58:06.098Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.785" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.385">
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.359">
-</testcase>
-</testsuite>
-<testsuite name="example.spec.js" timestamp="2026-01-06T03:57:23.510Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.291" errors="0">
-<testcase name="has title" classname="example.spec.js" time="1.352">
-</testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.939">
+<testcase name="get started link" classname="example.spec.js" time="0.4">
 </testcase>
 </testsuite>
-<testsuite name="example.spec.js" timestamp="2026-01-06T03:57:23.510Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.038" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.019">
+<testsuite name="example.spec.js" timestamp="2026-01-07T03:58:06.098Z" hostname="firefox" tests="2" failures="0" skipped="0" time="1.903" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.22">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="0.683">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2026-01-07T03:58:06.098Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.039" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.02">
 <failure message="example.spec.js:4:1 has title" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:4:1 › has title ───────────────────────────────────────────────────────
 
