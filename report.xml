@@ -1,17 +1,17 @@
-<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="9.424854000000002">
-<testsuite name="example.spec.js" timestamp="2026-02-04T04:24:27.110Z" hostname="chromium" tests="2" failures="0" skipped="0" time="1.101" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.533">
+<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="9.214195">
+<testsuite name="example.spec.js" timestamp="2026-02-05T04:41:54.972Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.775" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.368">
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.568">
-</testcase>
-</testsuite>
-<testsuite name="example.spec.js" timestamp="2026-02-04T04:24:27.110Z" hostname="firefox" tests="2" failures="0" skipped="0" time="1.986" errors="0">
-<testcase name="has title" classname="example.spec.js" time="1.224">
-</testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.762">
+<testcase name="get started link" classname="example.spec.js" time="0.407">
 </testcase>
 </testsuite>
-<testsuite name="example.spec.js" timestamp="2026-02-04T04:24:27.110Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.039" errors="0">
+<testsuite name="example.spec.js" timestamp="2026-02-05T04:41:54.972Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.081" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.23">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="0.851">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2026-02-05T04:41:54.972Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.039" errors="0">
 <testcase name="has title" classname="example.spec.js" time="0.02">
 <failure message="example.spec.js:4:1 has title" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:4:1 › has title ───────────────────────────────────────────────────────
