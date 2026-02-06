@@ -1,18 +1,18 @@
-<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="9.214195">
-<testsuite name="example.spec.js" timestamp="2026-02-05T04:41:54.972Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.775" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.368">
+<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="7.917809999999999">
+<testsuite name="example.spec.js" timestamp="2026-02-06T04:30:10.071Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.715" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.379">
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.407">
-</testcase>
-</testsuite>
-<testsuite name="example.spec.js" timestamp="2026-02-05T04:41:54.972Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.081" errors="0">
-<testcase name="has title" classname="example.spec.js" time="1.23">
-</testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.851">
+<testcase name="get started link" classname="example.spec.js" time="0.336">
 </testcase>
 </testsuite>
-<testsuite name="example.spec.js" timestamp="2026-02-05T04:41:54.972Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.039" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.02">
+<testsuite name="example.spec.js" timestamp="2026-02-06T04:30:10.071Z" hostname="firefox" tests="2" failures="0" skipped="0" time="1.774" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.05">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="0.724">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2026-02-06T04:30:10.071Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.032" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.017">
 <failure message="example.spec.js:4:1 has title" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:4:1 › has title ───────────────────────────────────────────────────────
 
@@ -36,6 +36,7 @@
     ║         libharfbuzz-icu0\                            ║
     ║         libsecret-1-0\                               ║
     ║         libhyphen0\                                  ║
+    ║         libwayland-server0\                          ║
     ║         libmanette-0.2-0\                            ║
     ║         libgles2\                                    ║
     ║         gstreamer1.0-libav                           ║
@@ -65,6 +66,7 @@
     ║         libharfbuzz-icu0\                            ║
     ║         libsecret-1-0\                               ║
     ║         libhyphen0\                                  ║
+    ║         libwayland-server0\                          ║
     ║         libmanette-0.2-0\                            ║
     ║         libgles2\                                    ║
     ║         gstreamer1.0-libav                           ║
@@ -102,6 +104,7 @@
     ║         libharfbuzz-icu0\                            ║
     ║         libsecret-1-0\                               ║
     ║         libhyphen0\                                  ║
+    ║         libwayland-server0\                          ║
     ║         libmanette-0.2-0\                            ║
     ║         libgles2\                                    ║
     ║         gstreamer1.0-libav                           ║
@@ -116,7 +119,7 @@
 ]]>
 </system-out>
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.019">
+<testcase name="get started link" classname="example.spec.js" time="0.015">
 <failure message="example.spec.js:11:1 get started link" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:11:1 › get started link ───────────────────────────────────────────────
 
@@ -140,6 +143,7 @@
     ║         libharfbuzz-icu0\                            ║
     ║         libsecret-1-0\                               ║
     ║         libhyphen0\                                  ║
+    ║         libwayland-server0\                          ║
     ║         libmanette-0.2-0\                            ║
     ║         libgles2\                                    ║
     ║         gstreamer1.0-libav                           ║
@@ -169,6 +173,7 @@
     ║         libharfbuzz-icu0\                            ║
     ║         libsecret-1-0\                               ║
     ║         libhyphen0\                                  ║
+    ║         libwayland-server0\                          ║
     ║         libmanette-0.2-0\                            ║
     ║         libgles2\                                    ║
     ║         gstreamer1.0-libav                           ║
@@ -206,6 +211,7 @@
     ║         libharfbuzz-icu0\                            ║
     ║         libsecret-1-0\                               ║
     ║         libhyphen0\                                  ║
+    ║         libwayland-server0\                          ║
     ║         libmanette-0.2-0\                            ║
     ║         libgles2\                                    ║
     ║         gstreamer1.0-libav                           ║
