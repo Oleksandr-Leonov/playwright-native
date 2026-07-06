@@ -1,18 +1,18 @@
-<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="9.721561">
-<testsuite name="example.spec.js" timestamp="2026-07-03T06:19:43.013Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.712" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.326">
+<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="9.394125">
+<testsuite name="example.spec.js" timestamp="2026-07-06T06:59:34.393Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.734" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.36">
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.386">
-</testcase>
-</testsuite>
-<testsuite name="example.spec.js" timestamp="2026-07-03T06:19:43.013Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.036" errors="0">
-<testcase name="has title" classname="example.spec.js" time="1.154">
-</testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.882">
+<testcase name="get started link" classname="example.spec.js" time="0.374">
 </testcase>
 </testsuite>
-<testsuite name="example.spec.js" timestamp="2026-07-03T06:19:43.013Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.03" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.015">
+<testsuite name="example.spec.js" timestamp="2026-07-06T06:59:34.393Z" hostname="firefox" tests="2" failures="0" skipped="0" time="1.919" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.168">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="0.751">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2026-07-06T06:59:34.393Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.025" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.012">
 <failure message="example.spec.js:4:1 has title" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:4:1 › has title ───────────────────────────────────────────────────────
 
@@ -119,7 +119,7 @@
 ]]>
 </system-out>
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.015">
+<testcase name="get started link" classname="example.spec.js" time="0.013">
 <failure message="example.spec.js:11:1 get started link" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:11:1 › get started link ───────────────────────────────────────────────
 
