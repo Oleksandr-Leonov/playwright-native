@@ -1,18 +1,18 @@
-<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="10.761144999999999">
-<testsuite name="example.spec.js" timestamp="2026-08-13T04:43:31.164Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.82" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.386">
+<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="10.147337000000002">
+<testsuite name="example.spec.js" timestamp="2026-08-14T04:40:33.577Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.789" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.35">
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.434">
-</testcase>
-</testsuite>
-<testsuite name="example.spec.js" timestamp="2026-08-13T04:43:31.164Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.822" errors="0">
-<testcase name="has title" classname="example.spec.js" time="2.001">
-</testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.821">
+<testcase name="get started link" classname="example.spec.js" time="0.439">
 </testcase>
 </testsuite>
-<testsuite name="example.spec.js" timestamp="2026-08-13T04:43:31.164Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.03" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.015">
+<testsuite name="example.spec.js" timestamp="2026-08-14T04:40:33.577Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.052" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.184">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="0.868">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2026-08-14T04:40:33.577Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.031" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.016">
 <failure message="example.spec.js:4:1 has title" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:4:1 › has title ───────────────────────────────────────────────────────
 
