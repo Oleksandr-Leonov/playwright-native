@@ -1,18 +1,18 @@
-<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="10.217204000000002">
-<testsuite name="example.spec.js" timestamp="2026-10-27T08:27:45.703Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.923" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.37">
+<testsuites id="" name="" tests="6" failures="2" skipped="0" errors="0" time="9.481643">
+<testsuite name="example.spec.js" timestamp="2026-10-28T09:05:11.373Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.754" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.363">
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.553">
-</testcase>
-</testsuite>
-<testsuite name="example.spec.js" timestamp="2026-10-27T08:27:45.703Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.365" errors="0">
-<testcase name="has title" classname="example.spec.js" time="1.55">
-</testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.815">
+<testcase name="get started link" classname="example.spec.js" time="0.391">
 </testcase>
 </testsuite>
-<testsuite name="example.spec.js" timestamp="2026-10-27T08:27:45.703Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.03" errors="0">
-<testcase name="has title" classname="example.spec.js" time="0.015">
+<testsuite name="example.spec.js" timestamp="2026-10-28T09:05:11.373Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.144" errors="0">
+<testcase name="has title" classname="example.spec.js" time="1.239">
+</testcase>
+<testcase name="get started link" classname="example.spec.js" time="0.905">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2026-10-28T09:05:11.373Z" hostname="webkit" tests="2" failures="2" skipped="0" time="0.024" errors="0">
+<testcase name="has title" classname="example.spec.js" time="0.012">
 <failure message="example.spec.js:4:1 has title" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:4:1 › has title ───────────────────────────────────────────────────────
 
@@ -24,7 +24,9 @@
     ║     sudo npx playwright install-deps                 ║
     ║                                                      ║
     ║ Alternatively, use apt:                              ║
-    ║     sudo apt-get install libwoff1\                   ║
+    ║     sudo apt-get install libicu74\                   ║
+    ║         libxml2\                                     ║
+    ║         libwoff1\                                    ║
     ║         libvpx9\                                     ║
     ║         libevent-2.1-7t64\                           ║
     ║         libopus0\                                    ║
@@ -54,7 +56,9 @@
     ║     sudo npx playwright install-deps                 ║
     ║                                                      ║
     ║ Alternatively, use apt:                              ║
-    ║     sudo apt-get install libwoff1\                   ║
+    ║     sudo apt-get install libicu74\                   ║
+    ║         libxml2\                                     ║
+    ║         libwoff1\                                    ║
     ║         libvpx9\                                     ║
     ║         libevent-2.1-7t64\                           ║
     ║         libopus0\                                    ║
@@ -92,7 +96,9 @@
     ║     sudo npx playwright install-deps                 ║
     ║                                                      ║
     ║ Alternatively, use apt:                              ║
-    ║     sudo apt-get install libwoff1\                   ║
+    ║     sudo apt-get install libicu74\                   ║
+    ║         libxml2\                                     ║
+    ║         libwoff1\                                    ║
     ║         libvpx9\                                     ║
     ║         libevent-2.1-7t64\                           ║
     ║         libopus0\                                    ║
@@ -119,7 +125,7 @@
 ]]>
 </system-out>
 </testcase>
-<testcase name="get started link" classname="example.spec.js" time="0.015">
+<testcase name="get started link" classname="example.spec.js" time="0.012">
 <failure message="example.spec.js:11:1 get started link" type="FAILURE">
 <![CDATA[  [webkit] › example.spec.js:11:1 › get started link ───────────────────────────────────────────────
 
@@ -131,7 +137,9 @@
     ║     sudo npx playwright install-deps                 ║
     ║                                                      ║
     ║ Alternatively, use apt:                              ║
-    ║     sudo apt-get install libwoff1\                   ║
+    ║     sudo apt-get install libicu74\                   ║
+    ║         libxml2\                                     ║
+    ║         libwoff1\                                    ║
     ║         libvpx9\                                     ║
     ║         libevent-2.1-7t64\                           ║
     ║         libopus0\                                    ║
@@ -161,7 +169,9 @@
     ║     sudo npx playwright install-deps                 ║
     ║                                                      ║
     ║ Alternatively, use apt:                              ║
-    ║     sudo apt-get install libwoff1\                   ║
+    ║     sudo apt-get install libicu74\                   ║
+    ║         libxml2\                                     ║
+    ║         libwoff1\                                    ║
     ║         libvpx9\                                     ║
     ║         libevent-2.1-7t64\                           ║
     ║         libopus0\                                    ║
@@ -199,7 +209,9 @@
     ║     sudo npx playwright install-deps                 ║
     ║                                                      ║
     ║ Alternatively, use apt:                              ║
-    ║     sudo apt-get install libwoff1\                   ║
+    ║     sudo apt-get install libicu74\                   ║
+    ║         libxml2\                                     ║
+    ║         libwoff1\                                    ║
     ║         libvpx9\                                     ║
     ║         libevent-2.1-7t64\                           ║
     ║         libopus0\                                    ║
